@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/htmma.dir/init.c.o CMakeFiles/htmma.dir/numap.c.o CMakeFiles/htmma.dir/numap_analyse.c.o -o ../../bin/htmma  -lnuma -lpfm 
